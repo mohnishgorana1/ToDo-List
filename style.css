@@ -72,7 +72,8 @@ main{
 
 @media (200px <= width <= 450px ) {
     .box{
-        width:300px
+        width:300px;
+        /* max-height:50vh; */
     }
     main{
         height: 100vh;
